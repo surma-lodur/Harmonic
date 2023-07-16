@@ -30,7 +30,7 @@ Harmonic::PERIODS[57]; // A4(2272µs)
 
 ## Development and Testing
 
-(https://github.com/bxparks/EpoxyDuino)[EpoxyDuino] for Tests recommended.
+[EpoxyDuino](https://github.com/bxparks/EpoxyDuino) for Tests recommended.
 
 
 Use the **test** target for testing with EpoxyDuino.
